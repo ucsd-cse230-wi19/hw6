@@ -1,0 +1,9 @@
+resolver: lts-12.2
+
+packages: 
+- '.'
+
+extra-deps: 
+- tasty-rerun-1.1.12
+
+extra-package-dbs: []
