@@ -4,7 +4,7 @@
 
 1. Use the _fork link_ from the class website to create your private clone of the starter code.
 
-2. Do `git clone https://github.com/ucsd-cse230-wi19/hw5-XXX` where `XXX` is your private repo.
+2. Do `git clone https://github.com/ucsd-cse230-wi19/hw6-XXX` where `XXX` is your private repo.
 
 ## Link to Upstream
 
